@@ -190,6 +190,7 @@
 @end
 
 #else
+#import "RNFirebaseDatabase.h"
 @implementation RNFirebaseDatabase
 @end
 #endif
